@@ -1,0 +1,7 @@
+name = "OZero"
+uuid = "40408c92-70a0-42e9-bc52-bf2a8e04e76a"
+authors = ["Cloves Almeida <almeida.cloves@bcg.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
