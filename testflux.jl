@@ -4,8 +4,6 @@ using Base.Iterators: partition
 using Flux
 using Printf
 using Statistics
-using Torch: torch
-
 
 const BATCHSIZE = 128
 const W = 28
